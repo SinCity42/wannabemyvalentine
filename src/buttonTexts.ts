@@ -6,13 +6,13 @@ export const negativeTexts = [
   'There is no way back',
   "I can't believe it",
   'Are you completely sure?',
-  'You gonna be singel',
-  'You are dead to me',
-  'This is you last chance',
-  'Johnie Hjelm! I warn you!',
-  'How can you do it?',
+  'You wanna be single?',
+  'Dont do this to me cupcake',
+  'This is you last chance avenger revenger',
+  'Rabhya! I warn you!',
+  'Rab ne bana di jodi',
   'After all we went through?',
-  'You better run',
+  'You better press YES',
 ];
 
 export const positiveTexts = [
